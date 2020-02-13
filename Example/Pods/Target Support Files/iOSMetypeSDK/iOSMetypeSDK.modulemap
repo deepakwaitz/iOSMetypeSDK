@@ -1,0 +1,6 @@
+framework module iOSMetypeSDK {
+  umbrella header "iOSMetypeSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

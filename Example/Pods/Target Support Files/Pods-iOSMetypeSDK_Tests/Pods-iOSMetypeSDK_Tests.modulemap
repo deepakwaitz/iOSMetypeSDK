@@ -1,0 +1,6 @@
+framework module Pods_iOSMetypeSDK_Tests {
+  umbrella header "Pods-iOSMetypeSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

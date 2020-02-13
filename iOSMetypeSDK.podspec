@@ -39,4 +39,29 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  
+  s.dependency 'FBLazyVector'
+  s.dependency 'FBReactNativeSpec'
+  s.dependency 'RCTRequired'
+  s.dependency 'RCTTypeSafety'
+  s.dependency 'React'
+  s.dependency 'React-Core'
+  s.dependency 'React-CoreModules'
+  s.dependency 'React-Core/DevSupport'
+  s.dependency 'React-RCTActionSheet'
+  s.dependency 'React-RCTAnimation'
+  
+  
+#  s.ios.dependency "FBLazyVector"
+#
+#  s.subspec 'FBLazyVector' do |ss|
+#      ss.source_files = 'node_modules/react-native/Libraries/**/*.{c,h,m,mm,cpp}'
+#
+#  end
+  
+  s.dependency "glog"
+  s.dependency "Yoga"
+  s.dependency "Folly"
+  s.dependency "DoubleConversion"
+
 end
