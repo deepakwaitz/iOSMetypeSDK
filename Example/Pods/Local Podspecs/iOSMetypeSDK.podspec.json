@@ -20,9 +20,6 @@
   },
   "source_files": "iOSMetypeSDK/Classes/**/*",
   "dependencies": {
-    "FBLazyVector": [
-
-    ],
     "glog": [
 
     ],
