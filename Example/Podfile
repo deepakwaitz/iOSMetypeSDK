@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSMetypeSDK_Example' do
+  pod 'iOSMetypeSDK', :path => '../'
+
+  target 'iOSMetypeSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
