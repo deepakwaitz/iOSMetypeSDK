@@ -40,16 +40,16 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   
-  s.dependency 'FBLazyVector'
-  s.dependency 'FBReactNativeSpec'
-  s.dependency 'RCTRequired'
-  s.dependency 'RCTTypeSafety'
-  s.dependency 'React'
-  s.dependency 'React-Core'
-  s.dependency 'React-CoreModules'
-  s.dependency 'React-Core/DevSupport'
-  s.dependency 'React-RCTActionSheet'
-  s.dependency 'React-RCTAnimation'
+#  s.dependency 'FBLazyVector'
+#  s.dependency 'FBReactNativeSpec'
+#  s.dependency 'RCTRequired'
+#  s.dependency 'RCTTypeSafety'
+#  s.dependency 'React'
+#  s.dependency 'React-Core'
+#  s.dependency 'React-CoreModules'
+#  s.dependency 'React-Core/DevSupport'
+#  s.dependency 'React-RCTActionSheet'
+#  s.dependency 'React-RCTAnimation'
   
   
 #  s.ios.dependency "FBLazyVector"
